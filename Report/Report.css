@@ -91,10 +91,7 @@ table {
     min-height: 10vh;
 }
 
-/* .rca_logo{
-    margin-left: 2px;
-    width: 20%;
-} */
+
 
 .profile_photo,.rca_logo{
     display: flex;
