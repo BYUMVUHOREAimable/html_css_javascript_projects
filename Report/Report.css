@@ -1,0 +1,105 @@
+.container{
+    width: 100%;
+    height: 90vh;
+    /* background-color: brown; */
+    margin-top:30px;
+    margin-left: 50px;
+}
+.left {
+    width: 200px;
+    margin-left: 250px;
+    font-size: 0.8rem;
+}
+
+.pro {
+    display: flex;
+}
+
+.rep {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.fir {
+    border: 2px solid #000;
+    padding: 5px;
+    width: 932.5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.sec {
+    width: 1050px;
+}
+
+table, tr, th, td {
+    border: 2px solid #000;
+    width: 946Px;
+}
+
+.last {
+    display: flex;
+    border: 2px solid #000;
+    padding: 5px;
+    width: 932.5px;
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.og {
+    margin-left: 200px;
+}
+
+.one {
+    margin-left: 180px;
+}
+
+table {
+    border-collapse: collapse;
+    padding: 0.5px;
+}
+
+
+.school-report th, .school-report td {
+    padding: 7px;
+    /* text-align: left; */
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.line {
+    text-decoration: underline;
+    width: 300px;
+}
+
+.hig {
+    background-color: rgb(226, 235, 241);
+}
+
+.cor {
+    text-align: center;
+}
+
+.cor1 {
+    text-align: left;
+}
+
+.profile_photo{
+    margin-left: 250px;
+    width: 20%;
+    min-height: 10vh;
+}
+
+/* .rca_logo{
+    margin-left: 2px;
+    width: 20%;
+} */
+
+.profile_photo,.rca_logo{
+    display: flex;
+}
+
+.promo{
+ margin-left: 200px;
+}
